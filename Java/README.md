@@ -1,4 +1,4 @@
-# Awesome-RxJava
+# Awesome-Java
 Java resources like Spring Family and so on.
 
 ## Blog
