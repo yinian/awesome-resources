@@ -3,10 +3,10 @@ Java resources like Spring Family and so on.
 
 ## Blog
 *  [芋道源码 —— 纯源码解析博客](http://www.iocoder.cn/) -**强烈推荐** 源代码笔记，很详细
-
+* [Spring For All 社区](http://www.spring4all.com) -国内首个 Spring 及 Spring Cloud 构建微服务架构的交流社区
 === 以下都是例子，可以删除
 
-* [NotRxJava懒人专用指南](http://www.devtf.cn/?p=323) -这篇入门极力推荐，手把手，深入浅出教你实现一个简易的RxJava库，更好的理解RxJava的实现思路
+
 
 * [深入浅出RxJava（一：基础篇）](http://blog.csdn.net/lzyzsd/article/details/41833541)
 
@@ -106,7 +106,7 @@ Java resources like Spring Family and so on.
 
 ## Example
 
-* [learnrxjava](https://github.com/jhusain/learnrxjava) -RxJava例子
+* [springboot-learning-example](https://github.com/JeffLi1993/springboot-learning-example) -springboot例子
 
 * [Intro-To-RxJava](https://github.com/Froussios/Intro-To-RxJava) -RxJava实例入门
 
