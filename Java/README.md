@@ -12,6 +12,17 @@ Java resources like Spring Family and so on.
 * [台部落](https://www.twblogs.net/) - 阿里巴巴开源项目
 
 
+## conference
+*  [Devoxx](https://devoxx.com/) -**强烈推荐** 北美版的欧洲软件大会
+* [Spring For All 社区](http://www.spring4all.com) -国内首个 Spring 及 Spring Cloud 构建微服务架构的交流社区
+* [javainuse](https://www.javainuse.com/) - 基本都是Java技术栈的交流社区
+* [并发编程网](http://ifeve.com/) - Java并发技术的交流社区
+* [掘金社区](https://juejin.im/) - 帮助开发者成长的社区
+* [sofastack](https://github.com/sofastack) - 蚂蚁金服开源平台
+* [alibaba](https://github.com/alibaba) - 阿里巴巴开源项目
+* [台部落](https://www.twblogs.net/) - 阿里巴巴开源项目
+
+
 === 以下都是例子，可以删除
 
 
