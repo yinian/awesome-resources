@@ -1,5 +1,5 @@
 
-# Awesome-Java
+# Awesome-Database
 DataBase resources like Mysql、MongoDB and so on.
 
 ## Kinds
