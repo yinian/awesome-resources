@@ -126,7 +126,15 @@ Java resources like Spring Family and so on.
 
 ## Example
 
-* [springboot-learning-example](https://github.com/JeffLi1993/springboot-learning-example) -springboot例子
+* [基于SOA架构的分布式电商购物商城](https://github.com/Exrick/xmall) -基于SOA架构的商城例子
+
+* [build SSM from 0 👉🏽👉🏽 distributed micro service](https://github.com/crossoverJie/SSM) -SSM的微服务话例子
+
+* [分布式事务社区](https://dromara.org/website/zh-cn/index.html) -分布式事务社区
+
+
+
+
 
 * [Intro-To-RxJava](https://github.com/Froussios/Intro-To-RxJava) -RxJava实例入门
 
