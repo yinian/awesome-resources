@@ -4,7 +4,9 @@
 * [Service Mesh Community](http://www.servicemesher.com/) -**强烈推荐** 蚂蚁金服大牛，CNCF大使-宋净超
 * [Service Mesh Community](https://github.com/servicemesher) -servicemesher Community github地址
 * [jimmysong](https://jimmysong.io/) - 云原生
-* [并发编程网](http://ifeve.com/) - Java并发技术的交流社区
+* [浙江大学SEL实验室](http://www.sel.zju.edu.cn) - 有许多有关云原生的文章、源码可供参考
+
+
 * [掘金社区](https://juejin.im/) - 帮助开发者成长的社区
 * [SegmentFault](https://segmentfault.com/) - 帮助开发者成长的社区
 * [sofastack](https://github.com/sofastack) - 蚂蚁金服开源平台
