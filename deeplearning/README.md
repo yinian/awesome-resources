@@ -7,6 +7,11 @@ AI resources like Spring Family and so on.
 
 ## Resources
 * [deeplearing-models](https://github.com/rasbt/deeplearning-models) - 大量深度学习架构、模型和 tips
+* [AiLearning](https://github.com/apachecn/AiLearning) - AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning
+* [ApacheCN](https://github.com/apachecn) - 可能是东半球最大的 AI 社区 | 欢迎大家贡献项目
+
+
+
 
 ## languages
 * [StatsWithJuliaBook](https://github.com/h-Klok/StatsWithJuliaBook) - Statistics with Julia: Fundamentals for Data Science, Machine Learning and Artificial Intelligence
