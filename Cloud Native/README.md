@@ -5,13 +5,9 @@
 * [Service Mesh Community](https://github.com/servicemesher) -servicemesher Community github地址
 * [jimmysong](https://jimmysong.io/) - 云原生
 * [浙江大学SEL实验室](http://www.sel.zju.edu.cn) - 有许多有关云原生的文章、源码可供参考
+* [CNCF官网](https://www.cncf.io/) - cloud native computing foundation
 
 
-* [掘金社区](https://juejin.im/) - 帮助开发者成长的社区
-* [SegmentFault](https://segmentfault.com/) - 帮助开发者成长的社区
-* [sofastack](https://github.com/sofastack) - 蚂蚁金服开源平台
-* [alibaba](https://github.com/alibaba) - 阿里巴巴开源项目
-* [台部落](https://www.twblogs.net/) - 社区
 
 
 ## conference
