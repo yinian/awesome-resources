@@ -11,6 +11,7 @@ Java resources like Spring Family and so on.
 * [sofastack](https://github.com/sofastack) - 蚂蚁金服开源平台
 * [alibaba](https://github.com/alibaba) - 阿里巴巴开源项目
 * [台部落](https://www.twblogs.net/) - 社区
+* [51CTO博客](https://blog.51cto.com/) - 51CTO博客
 
 
 ## conference
