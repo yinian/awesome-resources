@@ -10,6 +10,10 @@ AI resources like Spring Family and so on.
 * [AiLearning](https://github.com/apachecn/AiLearning) - AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning
 * [ApacheCN](https://github.com/apachecn) - 可能是东半球最大的 AI 社区 | 欢迎大家贡献项目
 
+## Competions
+* [FlyAi](https://www.flyai.com/) - FlyAI是为AI开发者提供数据竞赛并支持GPU离线训练的一站式服务平台
+
+
 
 
 
