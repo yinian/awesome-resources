@@ -12,6 +12,7 @@ Java resources like Spring Family and so on.
 * [alibaba](https://github.com/alibaba) - 阿里巴巴开源项目
 * [台部落](https://www.twblogs.net/) - 社区
 * [51CTO博客](https://blog.51cto.com/) - 51CTO博客
+* [KIBlog](http://www.kailing.pub/index/index.html) - KIBLog
 
 
 ## conference
