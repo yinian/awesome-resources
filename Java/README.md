@@ -14,6 +14,7 @@ Java resources like Spring Family and so on.
 * [51CTO博客](https://blog.51cto.com/) - 51CTO博客
 * [KIBlog](http://www.kailing.pub/index/index.html) - KIBLog
 * [Java技术驿站](http://cmsblogs.com/) - 专注于Java技术分享的博客
+* [美团点评](https://github.com/Meituan-Dianping) - 美团点评技术团队官方账号
 
 
 ## conference
