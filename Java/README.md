@@ -17,6 +17,9 @@ Java resources like Spring Family and so on.
 * [美团点评](https://github.com/Meituan-Dianping) - 美团点评技术团队官方账号
 * [Nepxion](https://github.com/Nepxion/) - 依托阿里巴巴中间件技术，联合Spring Cloud中国社区倾情打造，面向企业级微服务的开源框架，这个可以好好看看
 * [kailing](http://www.kailing.pub/) - 比较牛逼的一个博客，还有他的Gitee仓库：https://gitee.com/kailing
+* [Java多线程进阶](https://www.tpvlog.com/) - 有关Java 分布式理论和Java 多线程
+* 
+* 
 
 
 
